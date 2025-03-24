@@ -83,7 +83,7 @@ Contributions are welcome and appreciated! 🥳 To contribute:
 2. Create a new branch for your feature or fix.
 3. Commit your changes with a descriptive message.
 4. Push your changes to your branch.
-5. Open a Pull Request. 🎉
+5. Open a Pull Request to collaborate with me 
 
 ---
 
