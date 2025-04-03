@@ -111,7 +111,7 @@ Your feedback is valuable and helps make this project better for everyone. Thank
 ## 📧 Contact Me
 
 - 💼 [Portfolio Website](https://sumanthsamala.com)
-- 📧 Email: [chintusamala96@gmail.com](mailto:atrearyan@gmail.com)
+- 📧 Email: [atrearyan@gmail.com](mailto:atrearyan@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-atre)
 
 ---
